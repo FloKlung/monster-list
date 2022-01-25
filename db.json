@@ -4,25 +4,25 @@
       "id": 1,
       "life": 100,
       "attack": 0,
-      "img": "../assets/monster/ArcaneGolem.png"
+      "img": "ArcaneGolem.png"
     },
     {
       "id": 2,
       "life": 100,
       "attack": 0,
-      "img": "../assets/monster/BloodFeral.png"
+      "img": "BloodFeral.png"
     },
     {
       "id": 3,
       "life": 100,
       "attack": 0,
-      "img": "../assets/monster/SevenSinsWrath.png"
+      "img": "SevenSinsWrath.png"
     },
     {
       "id": 4,
       "life": 100,
       "attack": 0,
-      "img": "../assets/monster/FireMinivolcano.png"
+      "img": "FireMinivolcano.png"
     }
   ]
 }
