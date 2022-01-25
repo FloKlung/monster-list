@@ -23,6 +23,6 @@
       "life": 100,
       "attack": 0,
       "img": "../assets/monster/FireMinivolcano.png"
-    },
+    }
   ]
 }
