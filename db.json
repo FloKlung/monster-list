@@ -2,24 +2,28 @@
   "monsters": [
     {
       "id": 1,
+      "name": "Arcane Golem",
       "life": 100,
       "attack": 0,
       "img": "ArcaneGolem.png"
     },
     {
       "id": 2,
+      "name": "Blood Feral",
       "life": 100,
       "attack": 0,
       "img": "BloodFeral.png"
     },
     {
       "id": 3,
+      "name": "Seven Sins Wrath",
       "life": 100,
       "attack": 0,
       "img": "SevenSinsWrath.png"
     },
     {
       "id": 4,
+      "name": "Fire Minivolcano",
       "life": 100,
       "attack": 0,
       "img": "FireMinivolcano.png"
