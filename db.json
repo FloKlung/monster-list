@@ -5,7 +5,7 @@
       "name": "Arcane Golem",
       "life": 100,
       "attackStat": 20,
-      "attacks": ["Arcaneshot", "Attack"],
+      "attacks": ["Arcaneshot", "Magic Missle"],
       "defence": 10,
       "img": "ArcaneGolem.png"
     },
@@ -36,5 +36,35 @@
       "defence": 30,
       "img": "FireMinivolcano.png"
     }
+  ],
+  "monsterAttacks": [
+    {
+      "name": "Arcaneshot"
+      "baseAttack": 10,
+    },
+    {
+      "name": "Magic Missle"
+      "baseAttack": 8,
+    },
+    {
+      "name": "Bite"
+      "baseAttack":6,
+    },
+    {
+      "name": "Blood Hunt"
+      "baseAttack": 12,
+    },
+    {
+      "name": "Inferno"
+      "baseAttack": 15,
+    },
+    {
+      "name": "Fireball"
+      "baseAttack": 8,
+    },
+    {
+      "name": "Eruption"
+      "baseAttack": 20,
+    },
   ]
 }
