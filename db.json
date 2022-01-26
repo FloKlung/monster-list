@@ -4,28 +4,36 @@
       "id": 1,
       "name": "Arcane Golem",
       "life": 100,
-      "attack": 0,
+      "attackStat": 20,
+      "attacks": ['Arcaneshot', 'Attack'],
+      "defence": 10,
       "img": "ArcaneGolem.png"
     },
     {
       "id": 2,
       "name": "Blood Feral",
       "life": 100,
-      "attack": 0,
+      "attackStat": 30,
+      "attacks": ['Bite', 'Blood Hunt'],
+      "defence": 5,
       "img": "BloodFeral.png"
     },
     {
       "id": 3,
       "name": "Seven Sins Wrath",
       "life": 100,
-      "attack": 0,
+      "attackStat": 15,
+      "attacks": ['Inferno', 'Fireball'],
+      "defence": 15,
       "img": "SevenSinsWrath.png"
     },
     {
       "id": 4,
       "name": "Fire Minivolcano",
       "life": 100,
-      "attack": 0,
+      "attackStat": 5,
+      "attacks": ['Eruption', 'Fireball'],
+      "defence": 30,
       "img": "FireMinivolcano.png"
     }
   ]
