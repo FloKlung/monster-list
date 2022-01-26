@@ -39,6 +39,7 @@
   ],
   "monsterAttacks": [
     {
+      "id": 1,
       "name": "Arcaneshot",
       "baseAttack": 10
     },
