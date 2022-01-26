@@ -39,31 +39,31 @@
   ],
   "monsterAttacks": [
     {
-      "name": "Arcaneshot"
+      "name": "Arcaneshot",
       "baseAttack": 10,
     },
     {
-      "name": "Magic Missle"
+      "name": "Magic Missle",
       "baseAttack": 8,
     },
     {
-      "name": "Bite"
+      "name": "Bite",
       "baseAttack":6,
     },
     {
-      "name": "Blood Hunt"
+      "name": "Blood Hunt",
       "baseAttack": 12,
     },
     {
-      "name": "Inferno"
+      "name": "Inferno",
       "baseAttack": 15,
     },
     {
-      "name": "Fireball"
+      "name": "Fireball",
       "baseAttack": 8,
     },
     {
-      "name": "Eruption"
+      "name": "Eruption",
       "baseAttack": 20,
     }
   ]
