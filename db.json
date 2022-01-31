@@ -2,6 +2,7 @@
   "monsters": [
     {
       "id": 1,
+      "level": 1,
       "name": "Arcane Golem",
       "life": 100,
       "attackStat": 20,
@@ -11,6 +12,7 @@
     },
     {
       "id": 2,
+      "level": 1,
       "name": "Blood Feral",
       "life": 100,
       "attackStat": 30,
@@ -20,6 +22,7 @@
     },
     {
       "id": 3,
+      "level": 1,
       "name": "Seven Sins Wrath",
       "life": 100,
       "attackStat": 15,
@@ -29,6 +32,7 @@
     },
     {
       "id": 4,
+      "level": 1,
       "name": "Fire Minivolcano",
       "life": 100,
       "attackStat": 5,
